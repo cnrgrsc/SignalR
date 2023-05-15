@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRExample", "SignalRExample\SignalRExample.csproj", "{B887D093-4EA0-49A9-9EC0-A984FAC341C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRExample.UI", "SignalRExample.UI\SignalRExample.UI.csproj", "{BFFF5EA4-B73A-47B5-B369-AD51B7663C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B887D093-4EA0-49A9-9EC0-A984FAC341C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B887D093-4EA0-49A9-9EC0-A984FAC341C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B887D093-4EA0-49A9-9EC0-A984FAC341C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B887D093-4EA0-49A9-9EC0-A984FAC341C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFF5EA4-B73A-47B5-B369-AD51B7663C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFF5EA4-B73A-47B5-B369-AD51B7663C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFF5EA4-B73A-47B5-B369-AD51B7663C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFF5EA4-B73A-47B5-B369-AD51B7663C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126F8FC2-19D0-45DD-BD93-F59CF0E2E651}
+	EndGlobalSection
+EndGlobal
